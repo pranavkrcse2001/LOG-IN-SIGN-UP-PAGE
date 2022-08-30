@@ -1,2 +1,2 @@
 # LOG-IN-SIGN-UP-PAGE
-LOG IN /SIGN UP PAGE MADE USIN HTML,CSS &amp;JAVA
+HTML,CSS,JAVA PROJECT-This project is about Log in and sign up page where user can register themselves on a website and can log in to the website using their credentials.
